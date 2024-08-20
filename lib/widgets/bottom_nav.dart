@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fruitylips/widgets/bottom_nav_btn.dart';
 
+// ignore: must_be_immutable
 class BottomNav extends StatefulWidget {
   PageController pageController;
   int selectedIndex;
